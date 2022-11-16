@@ -326,7 +326,7 @@ $
 - Twitter: [@sinarta4](https://twitter.com/sinarta4)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/abdilatif-mohamed-)
 
-👤 **JUSTICE MENSAH BLAY MEWUBE**
+👤 **LORNA MUNGAI**
 
 - GitHub: [@Lornzyy](https://github.com/Lornzyy)
 
