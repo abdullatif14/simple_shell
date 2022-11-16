@@ -1,8 +1,7 @@
 #include "main.h"
 
 /*
- * main - creating a simple super shell
- *
+ * main - main function for the shell
  * Return: 0
  */
 
@@ -46,7 +45,6 @@ int main(void)
 				perror("error");
 			exit(0);
 		}
-		
 		else
 		{
 			wait(&status);
