@@ -322,10 +322,9 @@ $
 
 👤 **ABDILATIF MOHAMED**
 
-- GitHub: [@abdul;latif14](https://github.com/abdullatif24)
+- GitHub: [@abdullatif14](https://github.com/abdullatif14)
 - Twitter: [@sinarta4](https://twitter.com/sinarta4)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ehoneahobed)
-- Blog: [Personal Blog](https://blog.ehoneahobed.com)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/abdullatif-mohamed-)
 
 👤 **JUSTICE MENSAH BLAY MEWUBE**
 
