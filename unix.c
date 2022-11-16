@@ -74,10 +74,15 @@ int main(__attribute__((unused))int ac,char **argv)
 
 		argv[i] = NULL;
 
-		printf("%s\n", lineptr);
-		/*free the memory after execution*/
-		free(lineptr);
+		/*execute command */
+		execmd(argv);
+
 	}
+
+	/*	printf("%s\n", lineptr);*/
+		/*free the memory after execution*/
+	free(lineptr);
+	free(lineptr_copy);
 
 	return (0);
 }
