@@ -320,10 +320,10 @@ $
 
 ## Authors ##
 
-👤 **OBED EHONEAH**
+👤 **ABDILATIF MOHAMED**
 
-- GitHub: [@ehoneahobed](https://github.com/ehoneahobed)
-- Twitter: [@ehoneahobed](https://twitter.com/ehoneahobed)
+- GitHub: [@abdul;latif14](https://github.com/abdullatif24)
+- Twitter: [@sinarta4](https://twitter.com/sinarta4)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ehoneahobed)
 - Blog: [Personal Blog](https://blog.ehoneahobed.com)
 
