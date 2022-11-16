@@ -324,7 +324,7 @@ $
 
 - GitHub: [@abdullatif14](https://github.com/abdullatif14)
 - Twitter: [@sinarta4](https://twitter.com/sinarta4)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/abdullatif-mohamed-)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/abdilatif-mohamed-)
 
 👤 **JUSTICE MENSAH BLAY MEWUBE**
 
