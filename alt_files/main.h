@@ -17,8 +17,6 @@ typedef struct varibles
 {
 	char **env;
 }vars_t;
-=======
 
->>>>>>> 999d27b6ce88385bd90bbaf3f2edc9b396e713ed
 
 #endif /*main_h*/
