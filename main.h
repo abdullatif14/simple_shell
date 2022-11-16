@@ -1,5 +1,5 @@
-#ifndef _MAIN_H
-#define _MAIN_H_
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -7,6 +7,7 @@
 #include <unistd.h>
 #include <sys/wait.h>
 #include <sys/types.h>
+<<<<<<< HEAD
 #include <sys/stat.h>
 
 void execmd(char **argv);
@@ -16,5 +17,8 @@ typedef struct varibles
 {
 	char **env;
 }vars_t;
+=======
+
+>>>>>>> 999d27b6ce88385bd90bbaf3f2edc9b396e713ed
 
 #endif /*main_h*/
